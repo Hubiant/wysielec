@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+    color:rgb(0, 0, 0);
+    font-family: sans=serif;
+}
+div{
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    margin-top: 10px;
+}
+input{
+    font-size: 30px;
+    padding: 10px;
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    -webkit-text-stroke: 1px red;
+    border: none;
+}
